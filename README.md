@@ -1,6 +1,6 @@
 # CRUD-API-CHAT-NodeJS
 
-Api permettant d'effectuer un CRUD pour gérer des personnages, se connecter/s'inscrire via une système d'authentification. Possibilité de créer une room afin de discuter via une messagerie instantané développée à l'aide de la librairie Socket.io
+Api permettant d'effectuer un CRUD pour gérer des personnages, se connecter/s'inscrire via un système d'authentification. Possibilité de créer une room afin de discuter via une messagerie instantanée développée à l'aide de la librairie Socket.io
 
 ## Utilisation
 
